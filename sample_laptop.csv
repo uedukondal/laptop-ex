@@ -1,0 +1,301 @@
+Company,TypeName,Inches,ScreenResolution,Cpu,Ram,Memory,Gpu,OpSys,Weight,Price
+MSI,2 in 1 Convertible,13.2,2880x1800,Intel Core i3 6006U 2.0GHz,16GB,512GB SSD,Nvidia Quadro M1000M,Linux,2.84kg,138605.5
+HP,Ultrabook,12.9,2880x1800,Intel Core i7 7820HQ 2.9GHz,4GB,256GB SSD,Intel HD Graphics 620,Windows 10,1.81kg,78807.43
+Asus,Netbook,15.5,3200x1800,Intel Core i3 6006U 2.0GHz,16GB,1TB HDD,Intel Iris Plus Graphics 640,Windows 10,1.73kg,148984.45
+Acer,2 in 1 Convertible,13.5,1920x1080,Intel Celeron N3350 1.1GHz,16GB,1TB HDD,Nvidia Quadro M1000M,No OS,2.01kg,130130.77
+Lenovo,Ultrabook,15.4,3200x1800,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Nvidia Quadro M1000M,Windows 7,2.77kg,31606.38
+Lenovo,Workstation,15.8,1920x1080,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Intel HD Graphics 620,Linux,1.47kg,141744.0
+MSI,Ultrabook,13.0,1366x768,Intel Celeron N3350 1.1GHz,16GB,256GB SSD,AMD Radeon R5 M330,Linux,1.21kg,95300.54
+Asus,Workstation,12.9,3200x1800,Intel Core i7 7820HQ 2.9GHz,16GB,128GB SSD,Intel Iris Plus Graphics 640,Linux,1.79kg,126105.23
+Apple,Gaming,13.0,2880x1800,Intel Core i7 7500U 2.7GHz,4GB,128GB SSD,Intel Iris Plus Graphics 640,Windows 7,2.16kg,120671.6
+Apple,Workstation,11.2,3200x1800,Intel Celeron N3350 1.1GHz,4GB,1TB HDD,Nvidia GeForce GTX 1050,macOS,1.19kg,131692.74
+Apple,Netbook,12.3,3200x1800,Intel Core i7 7500U 2.7GHz,4GB,500GB HDD,AMD Radeon R5 M330,Windows 10,1.01kg,105720.38
+Acer,Netbook,16.2,2880x1800,Intel Celeron N3350 1.1GHz,16GB,256GB SSD,Nvidia Quadro M1000M,Windows 7,2.64kg,58067.29
+HP,2 in 1 Convertible,15.6,1366x768,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Intel HD Graphics 620,Linux,2.84kg,63159.57
+Asus,Ultrabook,13.9,2560x1600,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Intel Iris Plus Graphics 640,No OS,2.65kg,62779.91
+Apple,Gaming,12.6,2880x1800,Intel Core i3 6006U 2.0GHz,16GB,1TB HDD,Intel Iris Plus Graphics 640,Linux,2.47kg,126908.42
+Apple,2 in 1 Convertible,15.4,2880x1800,Intel Core i5 8250U 1.6GHz,32GB,1TB HDD,AMD Radeon R5 M330,Windows 10,2.31kg,66266.17
+Acer,2 in 1 Convertible,13.9,1920x1080,Intel Core i5 7200U 2.5GHz,16GB,500GB HDD,Nvidia GeForce GTX 1050,macOS,1.6kg,135070.67
+Dell,Notebook,12.6,1366x768,Intel Celeron N3350 1.1GHz,16GB,256GB SSD,Nvidia GeForce GTX 1050,No OS,2.64kg,30835.71
+Dell,Gaming,15.0,3200x1800,Intel Core i7 7820HQ 2.9GHz,32GB,1TB HDD,Nvidia Quadro M1000M,No OS,1.83kg,73103.4
+Apple,Workstation,13.0,3200x1800,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Nvidia GeForce GTX 1050,Linux,1.58kg,108362.4
+HP,Netbook,11.5,1920x1080,Intel Core i5 7200U 2.5GHz,32GB,500GB HDD,Intel HD Graphics 620,No OS,1.22kg,81272.77
+Acer,Netbook,13.1,2560x1600,Intel Celeron N3350 1.1GHz,16GB,1TB HDD,Nvidia Quadro M1000M,macOS,1.56kg,126079.07
+HP,Ultrabook,16.9,2560x1600,Intel Core i5 8250U 1.6GHz,16GB,512GB SSD,Nvidia Quadro M1000M,Windows 7,1.41kg,39003.1
+Lenovo,Netbook,16.9,2880x1800,Intel Core i7 7500U 2.7GHz,16GB,256GB SSD,Intel Iris Plus Graphics 640,Windows 7,1.98kg,129209.48
+HP,Workstation,14.3,3200x1800,Intel Core i3 6006U 2.0GHz,8GB,500GB HDD,Nvidia GeForce GTX 1050,macOS,1.66kg,38062.98
+MSI,Workstation,13.9,2560x1600,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Intel HD Graphics 620,No OS,1.49kg,67308.52
+Dell,Gaming,12.7,2880x1800,Intel Core i7 7820HQ 2.9GHz,32GB,256GB SSD,Intel Iris Plus Graphics 640,Windows 10,2.82kg,148426.06
+Lenovo,Ultrabook,16.9,1366x768,Intel Core i5 7200U 2.5GHz,16GB,500GB HDD,AMD Radeon R5 M330,No OS,1.16kg,95369.25
+Asus,2 in 1 Convertible,15.1,2880x1800,Intel Core i5 7200U 2.5GHz,32GB,500GB HDD,Nvidia Quadro M1000M,Windows 10,2.49kg,109375.13
+MSI,2 in 1 Convertible,12.0,1366x768,Intel Core i7 7500U 2.7GHz,8GB,128GB SSD,Nvidia GeForce GTX 1050,No OS,2.03kg,147570.96
+Dell,Gaming,15.6,3200x1800,Intel Core i5 8250U 1.6GHz,16GB,1TB HDD,Nvidia GeForce GTX 1050,Windows 10,1.86kg,47235.15
+Dell,2 in 1 Convertible,15.6,3200x1800,Intel Core i7 7500U 2.7GHz,4GB,256GB SSD,Intel Iris Plus Graphics 640,Windows 10,1.17kg,27863.2
+Apple,Gaming,16.6,2560x1600,Intel Core i5 8250U 1.6GHz,4GB,256GB SSD,Nvidia GeForce GTX 1050,No OS,2.61kg,98102.13
+Acer,Gaming,16.7,2560x1600,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Intel Iris Plus Graphics 640,Windows 7,1.07kg,131610.8
+Lenovo,Gaming,17.0,2560x1600,Intel Core i7 7820HQ 2.9GHz,8GB,1TB HDD,Intel HD Graphics 620,Windows 7,2.01kg,54149.08
+Lenovo,Ultrabook,11.5,2880x1800,Intel Celeron N3350 1.1GHz,32GB,128GB SSD,Nvidia Quadro M1000M,Windows 7,2.74kg,104908.03
+HP,Netbook,12.9,1920x1080,Intel Core i5 7200U 2.5GHz,16GB,1TB HDD,Nvidia Quadro M1000M,No OS,2.86kg,93005.48
+Apple,Ultrabook,14.9,1920x1080,Intel Core i5 7200U 2.5GHz,8GB,128GB SSD,Intel HD Graphics 620,Windows 10,1.98kg,101647.54
+HP,Netbook,11.7,2560x1600,Intel Core i5 8250U 1.6GHz,8GB,500GB HDD,Intel Iris Plus Graphics 640,Windows 10,2.38kg,75109.83
+Lenovo,Netbook,16.0,3200x1800,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,AMD Radeon R5 M330,Windows 10,1.22kg,21949.64
+Lenovo,Ultrabook,13.6,2560x1600,Intel Core i7 7820HQ 2.9GHz,8GB,512GB SSD,AMD Radeon R5 M330,Windows 10,1.68kg,149548.24
+MSI,Netbook,16.5,2880x1800,Intel Core i3 6006U 2.0GHz,32GB,1TB HDD,Intel Iris Plus Graphics 640,Windows 7,2.2kg,148365.69
+MSI,Ultrabook,15.7,1366x768,Intel Core i5 7200U 2.5GHz,32GB,1TB HDD,Intel Iris Plus Graphics 640,Windows 10,2.16kg,135397.64
+MSI,Gaming,11.9,1920x1080,Intel Core i7 7820HQ 2.9GHz,16GB,128GB SSD,Intel HD Graphics 620,No OS,1.57kg,106272.91
+Acer,2 in 1 Convertible,11.5,1920x1080,Intel Core i7 7500U 2.7GHz,32GB,256GB SSD,Intel HD Graphics 620,Windows 7,2.58kg,121268.84
+Dell,2 in 1 Convertible,11.4,2560x1600,Intel Core i7 7500U 2.7GHz,4GB,256GB SSD,AMD Radeon R5 M330,No OS,1.33kg,112549.96
+Apple,Ultrabook,11.4,1366x768,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Intel Iris Plus Graphics 640,Windows 10,2.97kg,111775.56
+Asus,Gaming,12.3,3200x1800,Intel Core i3 6006U 2.0GHz,8GB,256GB SSD,Intel Iris Plus Graphics 640,No OS,1.48kg,98531.08
+Dell,Gaming,16.7,3200x1800,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Intel HD Graphics 620,No OS,1.9kg,86050.8
+Apple,Netbook,16.6,2560x1600,Intel Celeron N3350 1.1GHz,32GB,256GB SSD,Intel Iris Plus Graphics 640,macOS,2.1kg,64418.02
+Lenovo,Notebook,14.0,1366x768,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Intel Iris Plus Graphics 640,Windows 10,2.25kg,106930.88
+Dell,Ultrabook,13.9,2560x1600,Intel Core i3 6006U 2.0GHz,4GB,128GB SSD,Intel HD Graphics 620,No OS,1.19kg,145660.74
+Lenovo,2 in 1 Convertible,15.1,2560x1600,Intel Core i5 8250U 1.6GHz,4GB,512GB SSD,Nvidia GeForce GTX 1050,macOS,1.9kg,135561.06
+Lenovo,2 in 1 Convertible,12.3,1366x768,Intel Core i5 7200U 2.5GHz,4GB,512GB SSD,Intel HD Graphics 620,Linux,2.36kg,106317.14
+Apple,Gaming,16.9,2880x1800,Intel Core i5 8250U 1.6GHz,32GB,512GB SSD,Intel Iris Plus Graphics 640,macOS,2.19kg,148455.41
+Apple,2 in 1 Convertible,14.1,1920x1080,Intel Core i3 6006U 2.0GHz,32GB,512GB SSD,Nvidia GeForce GTX 1050,macOS,2.37kg,108277.01
+Dell,Netbook,16.3,2560x1600,Intel Core i7 7500U 2.7GHz,32GB,512GB SSD,Nvidia Quadro M1000M,Windows 10,2.61kg,88949.55
+Apple,Ultrabook,13.1,3200x1800,Intel Core i7 7500U 2.7GHz,16GB,1TB HDD,Intel Iris Plus Graphics 640,Windows 10,2.18kg,129488.79
+Asus,Netbook,14.0,1366x768,Intel Core i7 7820HQ 2.9GHz,8GB,500GB HDD,AMD Radeon R5 M330,Linux,2.84kg,96824.0
+HP,2 in 1 Convertible,16.5,1920x1080,Intel Core i7 7500U 2.7GHz,32GB,512GB SSD,AMD Radeon R5 M330,Linux,1.22kg,147795.87
+Asus,Workstation,13.4,2880x1800,Intel Core i3 6006U 2.0GHz,8GB,256GB SSD,Intel Iris Plus Graphics 640,Windows 10,1.34kg,91670.31
+MSI,Workstation,13.0,1920x1080,Intel Core i3 6006U 2.0GHz,32GB,128GB SSD,Intel HD Graphics 620,Windows 10,1.93kg,62751.16
+Lenovo,Ultrabook,13.9,2560x1600,Intel Core i7 7500U 2.7GHz,16GB,1TB HDD,Intel HD Graphics 620,Windows 10,1.81kg,39451.01
+Acer,Workstation,13.4,2880x1800,Intel Core i7 7500U 2.7GHz,4GB,256GB SSD,Nvidia Quadro M1000M,Linux,2.41kg,25801.0
+HP,Ultrabook,12.6,1366x768,Intel Core i3 6006U 2.0GHz,32GB,500GB HDD,Nvidia Quadro M1000M,Windows 10,1.41kg,26013.25
+Asus,Ultrabook,15.4,2880x1800,Intel Celeron N3350 1.1GHz,8GB,1TB HDD,Intel HD Graphics 620,Linux,2.7kg,48686.37
+Apple,Ultrabook,11.6,2880x1800,Intel Core i3 6006U 2.0GHz,8GB,128GB SSD,Intel HD Graphics 620,macOS,1.56kg,72068.28
+Lenovo,2 in 1 Convertible,14.7,3200x1800,Intel Core i3 6006U 2.0GHz,16GB,512GB SSD,AMD Radeon R5 M330,No OS,1.56kg,128124.63
+MSI,Notebook,13.2,3200x1800,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Nvidia GeForce GTX 1050,macOS,1.05kg,133828.81
+HP,Gaming,11.6,3200x1800,Intel Celeron N3350 1.1GHz,16GB,256GB SSD,Intel Iris Plus Graphics 640,Windows 7,1.11kg,96212.58
+Acer,Ultrabook,13.2,3200x1800,Intel Core i7 7820HQ 2.9GHz,4GB,128GB SSD,Intel HD Graphics 620,Linux,2.51kg,66577.69
+Apple,Netbook,12.6,2880x1800,Intel Core i5 8250U 1.6GHz,4GB,500GB HDD,Intel HD Graphics 620,Windows 7,2.94kg,127812.36
+Lenovo,Notebook,16.9,3200x1800,Intel Core i5 7200U 2.5GHz,32GB,512GB SSD,AMD Radeon R5 M330,Windows 10,1.46kg,120044.76
+Apple,Workstation,14.6,1920x1080,Intel Core i7 7820HQ 2.9GHz,32GB,256GB SSD,Intel Iris Plus Graphics 640,Windows 10,2.42kg,118027.55
+Lenovo,Gaming,14.0,1920x1080,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Nvidia GeForce GTX 1050,No OS,2.74kg,83664.31
+MSI,2 in 1 Convertible,14.3,1920x1080,Intel Core i7 7820HQ 2.9GHz,16GB,1TB HDD,Intel Iris Plus Graphics 640,Linux,2.98kg,42673.09
+Asus,Netbook,11.7,1920x1080,Intel Core i7 7820HQ 2.9GHz,8GB,1TB HDD,Intel Iris Plus Graphics 640,Windows 10,1.45kg,139595.73
+Asus,2 in 1 Convertible,12.7,2560x1600,Intel Celeron N3350 1.1GHz,8GB,256GB SSD,AMD Radeon R5 M330,macOS,1.86kg,93265.74
+MSI,Workstation,13.3,2560x1600,Intel Core i7 7500U 2.7GHz,32GB,500GB HDD,Intel HD Graphics 620,No OS,1.47kg,135633.55
+Apple,2 in 1 Convertible,13.9,2560x1600,Intel Core i5 7200U 2.5GHz,8GB,512GB SSD,AMD Radeon R5 M330,Windows 10,1.96kg,127225.81
+Apple,2 in 1 Convertible,13.7,1366x768,Intel Core i7 7500U 2.7GHz,16GB,256GB SSD,Intel HD Graphics 620,No OS,1.35kg,114241.04
+Lenovo,Notebook,12.9,1366x768,Intel Core i7 7820HQ 2.9GHz,8GB,128GB SSD,Nvidia Quadro M1000M,Linux,1.11kg,62945.14
+Acer,Workstation,13.5,1366x768,Intel Core i5 8250U 1.6GHz,32GB,500GB HDD,Nvidia Quadro M1000M,Windows 10,2.45kg,96079.81
+Acer,Gaming,11.0,2880x1800,Intel Core i5 8250U 1.6GHz,32GB,500GB HDD,AMD Radeon R5 M330,Windows 7,1.84kg,58489.59
+Acer,Workstation,12.3,1920x1080,Intel Core i7 7820HQ 2.9GHz,8GB,256GB SSD,Nvidia GeForce GTX 1050,Linux,1.66kg,141470.47
+Asus,Workstation,16.8,3200x1800,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Nvidia Quadro M1000M,No OS,2.53kg,37501.41
+MSI,Ultrabook,11.2,2880x1800,Intel Core i7 7820HQ 2.9GHz,4GB,500GB HDD,Nvidia Quadro M1000M,Windows 10,2.52kg,22439.36
+Lenovo,Gaming,11.4,2880x1800,Intel Core i7 7500U 2.7GHz,32GB,256GB SSD,Nvidia Quadro M1000M,Windows 10,1.55kg,77867.84
+Dell,Workstation,16.3,2880x1800,Intel Core i5 8250U 1.6GHz,8GB,1TB HDD,Nvidia GeForce GTX 1050,Linux,2.08kg,103080.03
+HP,Notebook,13.3,3200x1800,Intel Core i7 7820HQ 2.9GHz,32GB,256GB SSD,Intel HD Graphics 620,No OS,1.17kg,124780.69
+Lenovo,Workstation,14.3,2560x1600,Intel Core i3 6006U 2.0GHz,16GB,256GB SSD,AMD Radeon R5 M330,Windows 10,1.36kg,33524.82
+Acer,Workstation,12.8,2560x1600,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Intel Iris Plus Graphics 640,Windows 7,2.13kg,141043.56
+Acer,Gaming,16.8,1366x768,Intel Core i7 7500U 2.7GHz,32GB,500GB HDD,Nvidia Quadro M1000M,Windows 10,2.09kg,145349.97
+Asus,Gaming,14.6,2560x1600,Intel Core i7 7500U 2.7GHz,32GB,500GB HDD,Nvidia Quadro M1000M,Linux,1.28kg,69869.33
+Apple,Workstation,15.6,3200x1800,Intel Core i7 7820HQ 2.9GHz,4GB,500GB HDD,AMD Radeon R5 M330,macOS,1.99kg,68975.65
+Acer,Notebook,15.9,1920x1080,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,AMD Radeon R5 M330,Linux,1.08kg,51520.21
+HP,Notebook,15.4,2560x1600,Intel Celeron N3350 1.1GHz,8GB,500GB HDD,Nvidia GeForce GTX 1050,macOS,2.07kg,111160.47
+Asus,Netbook,11.6,2560x1600,Intel Core i7 7500U 2.7GHz,32GB,512GB SSD,Intel Iris Plus Graphics 640,macOS,2.07kg,32271.24
+Dell,Netbook,16.1,1366x768,Intel Celeron N3350 1.1GHz,32GB,128GB SSD,Nvidia Quadro M1000M,No OS,2.25kg,57809.81
+Acer,Netbook,14.2,1366x768,Intel Core i5 8250U 1.6GHz,4GB,512GB SSD,Nvidia Quadro M1000M,No OS,1.05kg,67103.6
+HP,Netbook,16.6,2880x1800,Intel Core i7 7500U 2.7GHz,4GB,128GB SSD,Nvidia Quadro M1000M,No OS,1.32kg,144498.47
+HP,Notebook,11.5,1920x1080,Intel Core i7 7820HQ 2.9GHz,8GB,256GB SSD,Nvidia Quadro M1000M,Windows 7,1.79kg,33166.42
+HP,Ultrabook,16.6,2880x1800,Intel Celeron N3350 1.1GHz,8GB,128GB SSD,Intel Iris Plus Graphics 640,Linux,1.43kg,21750.54
+HP,Notebook,11.5,2560x1600,Intel Celeron N3350 1.1GHz,32GB,500GB HDD,Intel Iris Plus Graphics 640,Linux,2.2kg,75561.51
+Apple,Netbook,15.9,1920x1080,Intel Core i5 7200U 2.5GHz,32GB,512GB SSD,Intel Iris Plus Graphics 640,Windows 10,1.83kg,51751.26
+Dell,Notebook,11.4,2560x1600,Intel Celeron N3350 1.1GHz,8GB,512GB SSD,AMD Radeon R5 M330,Linux,1.64kg,105890.32
+Apple,2 in 1 Convertible,11.5,1920x1080,Intel Core i5 7200U 2.5GHz,16GB,1TB HDD,Intel Iris Plus Graphics 640,Windows 10,1.26kg,110891.48
+HP,2 in 1 Convertible,12.5,2560x1600,Intel Core i7 7500U 2.7GHz,8GB,128GB SSD,Intel Iris Plus Graphics 640,Linux,2.93kg,95723.44
+Dell,2 in 1 Convertible,13.1,3200x1800,Intel Core i7 7820HQ 2.9GHz,4GB,500GB HDD,AMD Radeon R5 M330,Linux,1.37kg,140236.16
+MSI,Ultrabook,11.0,3200x1800,Intel Core i7 7820HQ 2.9GHz,4GB,500GB HDD,Nvidia GeForce GTX 1050,Linux,1.47kg,148033.57
+Asus,Notebook,11.4,3200x1800,Intel Core i3 6006U 2.0GHz,16GB,1TB HDD,Nvidia Quadro M1000M,Windows 7,1.5kg,87241.19
+Asus,Gaming,15.0,3200x1800,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,AMD Radeon R5 M330,Windows 10,2.99kg,56871.14
+Apple,Ultrabook,14.9,2880x1800,Intel Core i7 7820HQ 2.9GHz,8GB,1TB HDD,AMD Radeon R5 M330,No OS,2.31kg,55146.07
+Asus,2 in 1 Convertible,13.2,1920x1080,Intel Celeron N3350 1.1GHz,8GB,500GB HDD,Intel Iris Plus Graphics 640,Linux,1.54kg,79171.98
+Acer,Netbook,11.6,3200x1800,Intel Core i3 6006U 2.0GHz,4GB,512GB SSD,AMD Radeon R5 M330,No OS,2.67kg,129129.35
+Asus,Ultrabook,15.2,2880x1800,Intel Core i3 6006U 2.0GHz,8GB,128GB SSD,AMD Radeon R5 M330,Windows 10,2.08kg,81412.48
+MSI,2 in 1 Convertible,11.9,3200x1800,Intel Core i7 7500U 2.7GHz,8GB,512GB SSD,AMD Radeon R5 M330,macOS,1.65kg,69548.14
+Acer,Workstation,13.7,1366x768,Intel Celeron N3350 1.1GHz,16GB,1TB HDD,Intel HD Graphics 620,Windows 7,2.78kg,104172.49
+HP,Netbook,13.1,1920x1080,Intel Core i5 8250U 1.6GHz,8GB,512GB SSD,Intel Iris Plus Graphics 640,Windows 10,2.81kg,58765.79
+MSI,Ultrabook,14.8,2560x1600,Intel Celeron N3350 1.1GHz,16GB,512GB SSD,Intel Iris Plus Graphics 640,Linux,1.59kg,99581.94
+Asus,2 in 1 Convertible,14.2,2560x1600,Intel Core i5 8250U 1.6GHz,32GB,500GB HDD,Nvidia Quadro M1000M,No OS,1.66kg,107988.17
+Lenovo,Gaming,16.9,1366x768,Intel Celeron N3350 1.1GHz,32GB,256GB SSD,AMD Radeon R5 M330,macOS,2.32kg,108379.68
+MSI,Notebook,14.6,3200x1800,Intel Core i7 7820HQ 2.9GHz,16GB,1TB HDD,Nvidia Quadro M1000M,Linux,2.58kg,128318.43
+Lenovo,Workstation,14.4,2880x1800,Intel Core i7 7500U 2.7GHz,8GB,500GB HDD,Nvidia Quadro M1000M,Windows 7,2.73kg,144317.81
+Asus,Gaming,15.8,1920x1080,Intel Core i5 8250U 1.6GHz,8GB,512GB SSD,Nvidia GeForce GTX 1050,Windows 10,3.0kg,116318.37
+Lenovo,Gaming,13.8,3200x1800,Intel Core i7 7820HQ 2.9GHz,16GB,256GB SSD,Intel HD Graphics 620,macOS,2.1kg,143118.72
+Asus,Netbook,13.0,1920x1080,Intel Celeron N3350 1.1GHz,32GB,512GB SSD,Intel HD Graphics 620,Linux,2.85kg,94149.97
+MSI,Netbook,13.1,2880x1800,Intel Core i7 7500U 2.7GHz,4GB,512GB SSD,Nvidia Quadro M1000M,Linux,2.78kg,68293.65
+Acer,Gaming,13.0,2880x1800,Intel Core i5 7200U 2.5GHz,16GB,512GB SSD,Nvidia Quadro M1000M,macOS,1.95kg,25041.76
+Asus,Netbook,15.9,1920x1080,Intel Core i3 6006U 2.0GHz,8GB,500GB HDD,Nvidia GeForce GTX 1050,No OS,1.25kg,95836.33
+Acer,Ultrabook,12.7,1366x768,Intel Core i7 7500U 2.7GHz,32GB,256GB SSD,Intel Iris Plus Graphics 640,macOS,2.13kg,121228.73
+Asus,Ultrabook,13.3,1920x1080,Intel Celeron N3350 1.1GHz,8GB,512GB SSD,Nvidia Quadro M1000M,Windows 7,2.36kg,55585.22
+Lenovo,2 in 1 Convertible,14.3,2880x1800,Intel Celeron N3350 1.1GHz,8GB,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,1.42kg,100956.34
+Lenovo,Netbook,13.7,2880x1800,Intel Core i5 8250U 1.6GHz,32GB,1TB HDD,Intel Iris Plus Graphics 640,macOS,1.11kg,65684.96
+Apple,Notebook,12.3,1366x768,Intel Core i5 7200U 2.5GHz,32GB,1TB HDD,Nvidia Quadro M1000M,No OS,1.03kg,72443.43
+Asus,Gaming,11.7,1366x768,Intel Core i7 7820HQ 2.9GHz,32GB,512GB SSD,Intel Iris Plus Graphics 640,macOS,1.37kg,145784.41
+Dell,Notebook,15.5,1920x1080,Intel Core i7 7500U 2.7GHz,8GB,128GB SSD,Intel Iris Plus Graphics 640,macOS,1.04kg,120906.99
+Acer,Workstation,17.0,2560x1600,Intel Core i7 7820HQ 2.9GHz,8GB,1TB HDD,Intel HD Graphics 620,Windows 10,1.96kg,59539.08
+Apple,Netbook,13.6,1366x768,Intel Core i5 8250U 1.6GHz,16GB,512GB SSD,Nvidia Quadro M1000M,macOS,2.46kg,77095.11
+Acer,Netbook,13.3,1366x768,Intel Core i7 7820HQ 2.9GHz,32GB,256GB SSD,Intel Iris Plus Graphics 640,macOS,2.41kg,149197.1
+Asus,Gaming,11.6,3200x1800,Intel Core i7 7500U 2.7GHz,32GB,512GB SSD,AMD Radeon R5 M330,Windows 10,1.06kg,149146.13
+Lenovo,Netbook,12.4,2880x1800,Intel Core i3 6006U 2.0GHz,4GB,1TB HDD,AMD Radeon R5 M330,macOS,2.48kg,61183.56
+MSI,2 in 1 Convertible,14.0,2560x1600,Intel Core i7 7820HQ 2.9GHz,32GB,512GB SSD,AMD Radeon R5 M330,Windows 10,1.99kg,118990.57
+MSI,Gaming,14.2,3200x1800,Intel Core i3 6006U 2.0GHz,4GB,512GB SSD,Intel Iris Plus Graphics 640,No OS,1.22kg,107408.17
+Asus,Notebook,15.6,2880x1800,Intel Core i3 6006U 2.0GHz,32GB,500GB HDD,Intel Iris Plus Graphics 640,Linux,2.59kg,127774.23
+MSI,Workstation,15.0,3200x1800,Intel Celeron N3350 1.1GHz,8GB,500GB HDD,Nvidia Quadro M1000M,Windows 10,2.97kg,133030.28
+MSI,2 in 1 Convertible,13.9,2560x1600,Intel Core i7 7500U 2.7GHz,4GB,256GB SSD,Nvidia Quadro M1000M,No OS,2.97kg,147064.3
+Acer,2 in 1 Convertible,14.2,1366x768,Intel Core i7 7820HQ 2.9GHz,16GB,128GB SSD,Intel HD Graphics 620,macOS,1.81kg,47119.55
+Lenovo,2 in 1 Convertible,12.3,2880x1800,Intel Core i5 8250U 1.6GHz,16GB,512GB SSD,AMD Radeon R5 M330,Windows 10,1.32kg,21855.92
+HP,Gaming,14.8,1920x1080,Intel Core i7 7820HQ 2.9GHz,8GB,128GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.04kg,71129.02
+Apple,Notebook,12.2,1366x768,Intel Core i3 6006U 2.0GHz,4GB,500GB HDD,AMD Radeon R5 M330,Linux,1.57kg,91884.79
+Dell,Netbook,11.3,2880x1800,Intel Celeron N3350 1.1GHz,16GB,1TB HDD,Nvidia Quadro M1000M,macOS,2.94kg,136913.81
+Asus,Workstation,15.9,1366x768,Intel Core i7 7820HQ 2.9GHz,32GB,1TB HDD,Intel Iris Plus Graphics 640,Windows 7,2.79kg,80912.1
+Dell,Netbook,11.5,2880x1800,Intel Celeron N3350 1.1GHz,32GB,256GB SSD,Nvidia Quadro M1000M,No OS,2.14kg,35310.71
+MSI,Notebook,15.8,2560x1600,Intel Celeron N3350 1.1GHz,8GB,500GB HDD,Nvidia Quadro M1000M,macOS,2.44kg,131032.11
+Asus,2 in 1 Convertible,12.3,2560x1600,Intel Core i3 6006U 2.0GHz,16GB,1TB HDD,Nvidia GeForce GTX 1050,macOS,1.8kg,103253.58
+HP,2 in 1 Convertible,15.7,3200x1800,Intel Core i3 6006U 2.0GHz,8GB,512GB SSD,AMD Radeon R5 M330,macOS,1.67kg,89345.27
+HP,Gaming,12.8,1366x768,Intel Celeron N3350 1.1GHz,32GB,1TB HDD,Intel HD Graphics 620,No OS,2.25kg,44131.82
+Lenovo,Notebook,11.1,1366x768,Intel Core i5 7200U 2.5GHz,32GB,128GB SSD,Nvidia Quadro M1000M,macOS,1.93kg,86402.67
+Apple,Workstation,17.0,3200x1800,Intel Core i5 8250U 1.6GHz,16GB,256GB SSD,Nvidia GeForce GTX 1050,Windows 7,1.72kg,57509.53
+Apple,Ultrabook,13.3,2880x1800,Intel Core i3 6006U 2.0GHz,8GB,1TB HDD,AMD Radeon R5 M330,Linux,2.97kg,62879.38
+Asus,Gaming,12.0,2880x1800,Intel Core i5 7200U 2.5GHz,32GB,500GB HDD,Nvidia GeForce GTX 1050,Windows 7,2.74kg,129685.51
+Asus,Ultrabook,16.9,1366x768,Intel Celeron N3350 1.1GHz,16GB,500GB HDD,Intel Iris Plus Graphics 640,Windows 7,2.56kg,55455.73
+Lenovo,Workstation,16.8,3200x1800,Intel Core i5 8250U 1.6GHz,32GB,1TB HDD,AMD Radeon R5 M330,No OS,2.54kg,81624.12
+MSI,Netbook,15.8,2880x1800,Intel Core i7 7500U 2.7GHz,16GB,500GB HDD,Intel HD Graphics 620,macOS,1.22kg,95091.73
+HP,Workstation,15.9,1920x1080,Intel Core i7 7500U 2.7GHz,32GB,128GB SSD,Intel Iris Plus Graphics 640,No OS,2.24kg,128657.28
+Acer,2 in 1 Convertible,13.3,2560x1600,Intel Celeron N3350 1.1GHz,16GB,500GB HDD,Nvidia GeForce GTX 1050,No OS,1.51kg,36908.15
+HP,Workstation,14.5,2560x1600,Intel Core i3 6006U 2.0GHz,8GB,1TB HDD,Intel HD Graphics 620,Windows 10,2.16kg,121943.4
+Acer,Gaming,13.7,1366x768,Intel Core i3 6006U 2.0GHz,16GB,512GB SSD,Intel Iris Plus Graphics 640,Windows 10,1.85kg,60723.58
+Apple,Workstation,14.8,1366x768,Intel Core i3 6006U 2.0GHz,4GB,256GB SSD,Intel HD Graphics 620,Windows 10,1.83kg,103207.52
+Dell,Ultrabook,14.5,3200x1800,Intel Core i7 7500U 2.7GHz,32GB,128GB SSD,Intel Iris Plus Graphics 640,Windows 10,2.8kg,115485.83
+Acer,Netbook,12.1,3200x1800,Intel Core i3 6006U 2.0GHz,8GB,128GB SSD,Nvidia Quadro M1000M,Linux,1.76kg,46865.17
+Apple,Notebook,14.9,3200x1800,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Nvidia Quadro M1000M,Linux,1.29kg,129811.68
+Apple,Ultrabook,12.6,2560x1600,Intel Celeron N3350 1.1GHz,16GB,128GB SSD,Intel HD Graphics 620,Linux,1.1kg,59958.13
+Dell,Notebook,11.6,1920x1080,Intel Celeron N3350 1.1GHz,16GB,256GB SSD,Nvidia Quadro M1000M,Windows 10,2.27kg,142942.15
+HP,Ultrabook,16.5,3200x1800,Intel Core i5 7200U 2.5GHz,16GB,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.67kg,26695.35
+Asus,Netbook,15.0,2880x1800,Intel Core i7 7500U 2.7GHz,32GB,128GB SSD,Nvidia GeForce GTX 1050,Windows 7,1.37kg,33817.93
+Acer,2 in 1 Convertible,12.9,2880x1800,Intel Core i5 8250U 1.6GHz,8GB,1TB HDD,Intel HD Graphics 620,Windows 7,2.72kg,64857.85
+Asus,Ultrabook,13.0,1920x1080,Intel Core i7 7500U 2.7GHz,32GB,256GB SSD,Intel Iris Plus Graphics 640,Linux,1.5kg,25270.55
+MSI,Notebook,16.9,2880x1800,Intel Core i3 6006U 2.0GHz,32GB,1TB HDD,Nvidia Quadro M1000M,Windows 7,2.99kg,124104.66
+Dell,2 in 1 Convertible,15.3,3200x1800,Intel Core i5 8250U 1.6GHz,32GB,256GB SSD,AMD Radeon R5 M330,Windows 10,1.38kg,105756.95
+MSI,Gaming,16.5,2880x1800,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,AMD Radeon R5 M330,Linux,1.37kg,41075.68
+HP,Gaming,14.2,2560x1600,Intel Core i5 7200U 2.5GHz,8GB,128GB SSD,Nvidia GeForce GTX 1050,No OS,2.44kg,63984.62
+MSI,Gaming,16.6,3200x1800,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Intel HD Graphics 620,macOS,2.67kg,44693.8
+MSI,Gaming,13.2,2880x1800,Intel Core i3 6006U 2.0GHz,32GB,500GB HDD,AMD Radeon R5 M330,Windows 7,2.62kg,140505.37
+Apple,Ultrabook,16.4,2560x1600,Intel Core i7 7500U 2.7GHz,4GB,500GB HDD,Intel HD Graphics 620,Linux,2.09kg,33024.02
+Dell,Netbook,11.7,2560x1600,Intel Core i3 6006U 2.0GHz,8GB,512GB SSD,Intel Iris Plus Graphics 640,macOS,1.79kg,53524.15
+Asus,Netbook,11.7,3200x1800,Intel Core i5 7200U 2.5GHz,4GB,128GB SSD,Nvidia Quadro M1000M,macOS,1.8kg,55858.35
+Acer,2 in 1 Convertible,15.8,3200x1800,Intel Core i7 7820HQ 2.9GHz,4GB,128GB SSD,Nvidia GeForce GTX 1050,No OS,2.96kg,114723.2
+Lenovo,Gaming,16.1,2880x1800,Intel Core i5 7200U 2.5GHz,16GB,1TB HDD,Nvidia Quadro M1000M,Windows 7,2.67kg,60193.66
+Acer,Ultrabook,13.7,1366x768,Intel Core i7 7820HQ 2.9GHz,8GB,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.37kg,51116.41
+Asus,Workstation,12.2,1920x1080,Intel Core i7 7820HQ 2.9GHz,4GB,512GB SSD,Nvidia GeForce GTX 1050,Linux,2.26kg,98606.14
+Apple,Notebook,14.3,1366x768,Intel Core i3 6006U 2.0GHz,16GB,512GB SSD,Intel Iris Plus Graphics 640,Linux,2.16kg,73649.95
+Apple,Workstation,16.2,1366x768,Intel Core i5 8250U 1.6GHz,16GB,256GB SSD,AMD Radeon R5 M330,Windows 10,2.92kg,125735.35
+Asus,Ultrabook,17.0,1366x768,Intel Core i7 7500U 2.7GHz,4GB,500GB HDD,AMD Radeon R5 M330,Windows 10,2.73kg,143621.54
+Acer,Workstation,13.3,2560x1600,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Intel Iris Plus Graphics 640,Windows 7,1.4kg,22216.71
+Asus,Netbook,14.4,1920x1080,Intel Celeron N3350 1.1GHz,8GB,500GB HDD,Nvidia Quadro M1000M,Linux,2.55kg,24977.23
+Dell,Workstation,13.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,512GB SSD,Intel HD Graphics 620,Linux,2.57kg,114845.74
+Asus,Netbook,14.8,2880x1800,Intel Celeron N3350 1.1GHz,4GB,1TB HDD,AMD Radeon R5 M330,Windows 7,1.61kg,110596.13
+Lenovo,Netbook,15.0,1366x768,Intel Core i3 6006U 2.0GHz,32GB,512GB SSD,Nvidia Quadro M1000M,Windows 7,1.16kg,139017.8
+MSI,Notebook,16.7,3200x1800,Intel Core i5 8250U 1.6GHz,16GB,1TB HDD,AMD Radeon R5 M330,No OS,1.53kg,79404.14
+Dell,Netbook,15.9,2880x1800,Intel Core i5 7200U 2.5GHz,32GB,512GB SSD,Intel HD Graphics 620,Windows 10,1.46kg,110843.19
+Acer,Netbook,14.8,2880x1800,Intel Core i5 8250U 1.6GHz,16GB,128GB SSD,AMD Radeon R5 M330,Windows 7,2.72kg,63003.73
+Dell,2 in 1 Convertible,13.7,2560x1600,Intel Core i5 8250U 1.6GHz,16GB,256GB SSD,Nvidia Quadro M1000M,macOS,2.49kg,145288.45
+Lenovo,Workstation,14.5,2560x1600,Intel Core i5 7200U 2.5GHz,32GB,500GB HDD,Nvidia Quadro M1000M,Windows 7,2.45kg,112852.21
+MSI,2 in 1 Convertible,17.0,3200x1800,Intel Celeron N3350 1.1GHz,32GB,1TB HDD,Nvidia Quadro M1000M,macOS,1.91kg,107220.82
+Asus,Gaming,16.9,3200x1800,Intel Core i5 8250U 1.6GHz,8GB,500GB HDD,Nvidia GeForce GTX 1050,Windows 10,2.12kg,42170.21
+Acer,2 in 1 Convertible,16.4,2880x1800,Intel Core i3 6006U 2.0GHz,8GB,512GB SSD,Intel Iris Plus Graphics 640,No OS,2.8kg,118020.3
+HP,Gaming,12.8,2560x1600,Intel Core i5 7200U 2.5GHz,32GB,1TB HDD,Nvidia Quadro M1000M,macOS,1.35kg,131913.41
+Asus,Gaming,14.1,2880x1800,Intel Core i7 7820HQ 2.9GHz,16GB,1TB HDD,Nvidia Quadro M1000M,Windows 7,1.07kg,118678.98
+Apple,Netbook,12.6,2880x1800,Intel Core i7 7500U 2.7GHz,32GB,128GB SSD,Nvidia GeForce GTX 1050,Windows 10,1.94kg,130284.21
+Apple,Ultrabook,13.9,1920x1080,Intel Celeron N3350 1.1GHz,4GB,500GB HDD,Intel Iris Plus Graphics 640,Linux,2.32kg,81021.51
+Apple,2 in 1 Convertible,12.1,2560x1600,Intel Core i5 7200U 2.5GHz,16GB,256GB SSD,Intel Iris Plus Graphics 640,Windows 10,2.62kg,61837.81
+Apple,2 in 1 Convertible,16.2,1920x1080,Intel Core i7 7500U 2.7GHz,32GB,1TB HDD,Nvidia Quadro M1000M,Windows 7,2.07kg,94474.33
+Acer,2 in 1 Convertible,15.1,2880x1800,Intel Core i5 8250U 1.6GHz,16GB,500GB HDD,Nvidia GeForce GTX 1050,Linux,2.77kg,91639.66
+Lenovo,Notebook,14.4,1920x1080,Intel Core i5 7200U 2.5GHz,4GB,512GB SSD,Intel Iris Plus Graphics 640,Windows 10,2.91kg,141165.82
+Lenovo,Gaming,15.3,1366x768,Intel Core i3 6006U 2.0GHz,16GB,500GB HDD,Intel HD Graphics 620,Windows 7,2.55kg,81523.94
+Asus,Workstation,13.4,1366x768,Intel Core i7 7820HQ 2.9GHz,8GB,128GB SSD,Intel HD Graphics 620,Windows 10,1.84kg,69119.19
+Asus,Gaming,16.3,1366x768,Intel Core i5 7200U 2.5GHz,8GB,500GB HDD,Intel HD Graphics 620,Windows 7,1.3kg,62455.12
+HP,Netbook,14.0,1366x768,Intel Core i5 8250U 1.6GHz,8GB,1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.12kg,109385.99
+Acer,Ultrabook,16.1,2880x1800,Intel Core i5 7200U 2.5GHz,16GB,512GB SSD,AMD Radeon R5 M330,Windows 7,1.58kg,34214.92
+Dell,Netbook,11.5,1920x1080,Intel Celeron N3350 1.1GHz,8GB,256GB SSD,AMD Radeon R5 M330,Windows 10,1.62kg,52415.96
+Dell,Ultrabook,13.7,3200x1800,Intel Core i5 7200U 2.5GHz,8GB,512GB SSD,Intel Iris Plus Graphics 640,Windows 10,2.25kg,132165.01
+Acer,2 in 1 Convertible,11.5,2560x1600,Intel Celeron N3350 1.1GHz,16GB,512GB SSD,AMD Radeon R5 M330,Windows 10,1.03kg,131135.04
+Lenovo,Gaming,13.3,1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Nvidia Quadro M1000M,Windows 7,2.59kg,23954.04
+Apple,Netbook,17.0,1920x1080,Intel Celeron N3350 1.1GHz,4GB,1TB HDD,Intel Iris Plus Graphics 640,Linux,2.79kg,108315.65
+Acer,2 in 1 Convertible,15.5,1366x768,Intel Celeron N3350 1.1GHz,16GB,1TB HDD,Intel HD Graphics 620,Windows 7,1.96kg,96594.48
+Asus,Notebook,11.7,2880x1800,Intel Core i5 8250U 1.6GHz,8GB,128GB SSD,Nvidia GeForce GTX 1050,Windows 10,1.66kg,59741.37
+Acer,Workstation,16.0,3200x1800,Intel Core i3 6006U 2.0GHz,8GB,1TB HDD,Intel HD Graphics 620,No OS,1.32kg,39834.96
+Lenovo,2 in 1 Convertible,16.4,3200x1800,Intel Core i5 8250U 1.6GHz,32GB,256GB SSD,Nvidia Quadro M1000M,Windows 7,1.93kg,52957.81
+HP,2 in 1 Convertible,12.0,2560x1600,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Intel Iris Plus Graphics 640,macOS,2.58kg,65869.89
+MSI,2 in 1 Convertible,13.7,2560x1600,Intel Core i3 6006U 2.0GHz,8GB,1TB HDD,AMD Radeon R5 M330,No OS,1.77kg,136032.83
+Asus,2 in 1 Convertible,12.0,1920x1080,Intel Core i5 8250U 1.6GHz,8GB,512GB SSD,Nvidia Quadro M1000M,Windows 10,2.51kg,107595.28
+Asus,Ultrabook,11.8,2880x1800,Intel Celeron N3350 1.1GHz,32GB,500GB HDD,Intel HD Graphics 620,Windows 10,1.28kg,58955.0
+Dell,Netbook,15.0,2880x1800,Intel Celeron N3350 1.1GHz,4GB,128GB SSD,Intel HD Graphics 620,macOS,1.7kg,27366.48
+Asus,Notebook,12.9,2880x1800,Intel Core i7 7500U 2.7GHz,4GB,500GB HDD,Intel HD Graphics 620,Linux,1.12kg,132035.02
+Dell,2 in 1 Convertible,12.6,2880x1800,Intel Celeron N3350 1.1GHz,32GB,256GB SSD,Intel Iris Plus Graphics 640,Windows 7,2.97kg,128467.43
+HP,Workstation,15.0,1920x1080,Intel Core i7 7820HQ 2.9GHz,16GB,256GB SSD,Intel Iris Plus Graphics 640,Windows 7,2.58kg,55504.98
+MSI,Gaming,14.0,2560x1600,Intel Core i7 7500U 2.7GHz,16GB,500GB HDD,Nvidia Quadro M1000M,No OS,2.45kg,103513.86
+Acer,Netbook,16.0,3200x1800,Intel Celeron N3350 1.1GHz,8GB,1TB HDD,Intel HD Graphics 620,macOS,1.23kg,130873.69
+Asus,Gaming,13.0,3200x1800,Intel Core i5 8250U 1.6GHz,8GB,500GB HDD,Nvidia GeForce GTX 1050,Linux,2.95kg,142785.68
+Asus,Notebook,11.9,2880x1800,Intel Celeron N3350 1.1GHz,16GB,1TB HDD,Nvidia GeForce GTX 1050,Linux,1.13kg,110227.02
+MSI,Gaming,14.3,1366x768,Intel Core i5 8250U 1.6GHz,4GB,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.8kg,36308.07
+Acer,Notebook,15.5,1366x768,Intel Core i7 7500U 2.7GHz,4GB,500GB HDD,Intel Iris Plus Graphics 640,Windows 10,1.45kg,54058.69
+MSI,Workstation,11.1,3200x1800,Intel Core i5 8250U 1.6GHz,32GB,500GB HDD,Intel HD Graphics 620,No OS,1.07kg,47513.9
+Lenovo,2 in 1 Convertible,14.2,2560x1600,Intel Core i3 6006U 2.0GHz,4GB,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.17kg,71905.65
+Acer,Ultrabook,13.4,2880x1800,Intel Core i3 6006U 2.0GHz,8GB,500GB HDD,AMD Radeon R5 M330,No OS,1.02kg,114052.09
+MSI,Netbook,16.1,3200x1800,Intel Core i5 7200U 2.5GHz,16GB,256GB SSD,Nvidia GeForce GTX 1050,macOS,2.76kg,116066.15
+Acer,Gaming,13.4,3200x1800,Intel Core i5 8250U 1.6GHz,8GB,1TB HDD,Intel Iris Plus Graphics 640,macOS,2.82kg,27841.16
+Lenovo,Gaming,13.3,1366x768,Intel Core i7 7820HQ 2.9GHz,16GB,128GB SSD,AMD Radeon R5 M330,Linux,1.29kg,40184.48
+Asus,Ultrabook,16.6,2880x1800,Intel Core i7 7820HQ 2.9GHz,8GB,500GB HDD,Nvidia Quadro M1000M,macOS,1.5kg,51657.67
+Dell,Notebook,12.5,2880x1800,Intel Celeron N3350 1.1GHz,16GB,512GB SSD,Intel Iris Plus Graphics 640,Linux,2.16kg,63220.31
+Dell,Workstation,16.1,2880x1800,Intel Core i7 7500U 2.7GHz,32GB,1TB HDD,Nvidia GeForce GTX 1050,Windows 7,1.56kg,102999.01
+Acer,Ultrabook,14.9,3200x1800,Intel Core i7 7820HQ 2.9GHz,16GB,500GB HDD,Intel HD Graphics 620,Windows 7,2.48kg,42017.68
+Lenovo,2 in 1 Convertible,14.4,1366x768,Intel Core i3 6006U 2.0GHz,4GB,512GB SSD,AMD Radeon R5 M330,Windows 7,2.05kg,20948.52
+HP,Netbook,11.3,3200x1800,Intel Core i7 7820HQ 2.9GHz,8GB,512GB SSD,AMD Radeon R5 M330,Linux,2.43kg,133998.41
+Dell,Workstation,14.2,2880x1800,Intel Core i7 7500U 2.7GHz,4GB,1TB HDD,Intel HD Graphics 620,No OS,1.63kg,104572.82
+Dell,2 in 1 Convertible,11.6,1366x768,Intel Core i5 7200U 2.5GHz,16GB,256GB SSD,AMD Radeon R5 M330,No OS,2.87kg,30820.59
+MSI,Notebook,14.0,2560x1600,Intel Core i3 6006U 2.0GHz,4GB,256GB SSD,Nvidia Quadro M1000M,Windows 7,1.58kg,132154.9
+HP,Netbook,17.0,1920x1080,Intel Core i5 8250U 1.6GHz,4GB,128GB SSD,Nvidia GeForce GTX 1050,No OS,2.16kg,76776.37
+Dell,Gaming,13.8,2560x1600,Intel Core i5 8250U 1.6GHz,16GB,256GB SSD,AMD Radeon R5 M330,No OS,1.53kg,91501.2
+Apple,Notebook,13.1,2880x1800,Intel Core i3 6006U 2.0GHz,8GB,500GB HDD,Intel Iris Plus Graphics 640,Linux,1.7kg,102287.36
+HP,Gaming,13.5,2880x1800,Intel Core i7 7820HQ 2.9GHz,16GB,512GB SSD,Intel HD Graphics 620,macOS,1.97kg,31223.92
+MSI,Workstation,11.2,2560x1600,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Nvidia GeForce GTX 1050,Linux,2.89kg,37294.63
+Dell,Netbook,12.6,3200x1800,Intel Core i7 7500U 2.7GHz,16GB,1TB HDD,AMD Radeon R5 M330,Windows 7,1.72kg,137666.98
+Lenovo,Workstation,14.4,1920x1080,Intel Core i7 7500U 2.7GHz,16GB,128GB SSD,Nvidia Quadro M1000M,macOS,1.22kg,149540.86
+Lenovo,Ultrabook,11.5,2880x1800,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Nvidia Quadro M1000M,No OS,2.95kg,63559.06
+Apple,Notebook,13.6,3200x1800,Intel Core i3 6006U 2.0GHz,4GB,128GB SSD,Nvidia GeForce GTX 1050,Linux,2.97kg,109033.12
+MSI,Netbook,13.9,1366x768,Intel Core i5 7200U 2.5GHz,8GB,128GB SSD,AMD Radeon R5 M330,Windows 7,1.36kg,118554.82
+MSI,Workstation,11.0,1366x768,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.38kg,91981.4
+Asus,2 in 1 Convertible,16.8,1920x1080,Intel Core i3 6006U 2.0GHz,32GB,512GB SSD,Intel Iris Plus Graphics 640,Windows 10,2.58kg,43121.33
+Apple,Ultrabook,16.7,1920x1080,Intel Celeron N3350 1.1GHz,8GB,128GB SSD,Nvidia GeForce GTX 1050,Linux,1.83kg,85171.33
+MSI,Workstation,14.6,2880x1800,Intel Celeron N3350 1.1GHz,32GB,256GB SSD,AMD Radeon R5 M330,macOS,2.16kg,128158.92
+MSI,Notebook,14.1,3200x1800,Intel Core i7 7820HQ 2.9GHz,16GB,512GB SSD,Nvidia Quadro M1000M,Linux,1.15kg,88983.73
+Dell,Ultrabook,15.4,2560x1600,Intel Core i7 7820HQ 2.9GHz,32GB,128GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.8kg,38957.29
+Lenovo,Ultrabook,16.3,2880x1800,Intel Core i5 7200U 2.5GHz,16GB,256GB SSD,AMD Radeon R5 M330,macOS,2.34kg,133578.77
+HP,Gaming,14.6,2880x1800,Intel Core i7 7820HQ 2.9GHz,4GB,128GB SSD,Nvidia GeForce GTX 1050,Windows 7,1.58kg,119645.5
+HP,2 in 1 Convertible,16.1,2560x1600,Intel Core i5 8250U 1.6GHz,8GB,128GB SSD,Intel Iris Plus Graphics 640,No OS,1.72kg,143575.53
+Dell,Netbook,12.1,3200x1800,Intel Core i5 8250U 1.6GHz,32GB,500GB HDD,AMD Radeon R5 M330,Linux,1.35kg,35537.57
+Apple,Netbook,13.1,2560x1600,Intel Core i3 6006U 2.0GHz,4GB,256GB SSD,Intel HD Graphics 620,Windows 7,2.38kg,134729.72
+MSI,Ultrabook,16.9,1366x768,Intel Core i3 6006U 2.0GHz,8GB,256GB SSD,AMD Radeon R5 M330,Windows 10,2.75kg,104247.8
+MSI,Netbook,15.7,3200x1800,Intel Core i3 6006U 2.0GHz,32GB,1TB HDD,AMD Radeon R5 M330,Windows 10,2.66kg,78731.84
+MSI,Notebook,13.6,2880x1800,Intel Core i7 7500U 2.7GHz,16GB,128GB SSD,Intel HD Graphics 620,Linux,2.48kg,70148.94
+Lenovo,Workstation,14.2,1366x768,Intel Celeron N3350 1.1GHz,32GB,1TB HDD,Nvidia Quadro M1000M,Linux,1.45kg,26654.46
+Dell,Ultrabook,16.0,2560x1600,Intel Core i5 8250U 1.6GHz,8GB,1TB HDD,AMD Radeon R5 M330,Windows 7,2.19kg,141990.27
+MSI,Gaming,11.3,1920x1080,Intel Core i5 8250U 1.6GHz,32GB,500GB HDD,Intel Iris Plus Graphics 640,Linux,2.28kg,40954.8
+Lenovo,Notebook,16.8,2880x1800,Intel Core i7 7820HQ 2.9GHz,32GB,128GB SSD,AMD Radeon R5 M330,Windows 10,1.22kg,88165.59
+Dell,Workstation,12.2,1366x768,Intel Core i5 7200U 2.5GHz,16GB,512GB SSD,Nvidia GeForce GTX 1050,Windows 7,1.84kg,141740.17
+Asus,Netbook,12.7,3200x1800,Intel Core i5 7200U 2.5GHz,16GB,500GB HDD,Nvidia Quadro M1000M,Windows 7,1.25kg,145461.02
+HP,Ultrabook,12.0,3200x1800,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Nvidia Quadro M1000M,Windows 10,1.78kg,122982.52
+Dell,Gaming,12.5,1366x768,Intel Core i3 6006U 2.0GHz,4GB,128GB SSD,Nvidia Quadro M1000M,macOS,2.02kg,97803.73
+Dell,Netbook,16.2,3200x1800,Intel Celeron N3350 1.1GHz,32GB,1TB HDD,Nvidia Quadro M1000M,macOS,1.48kg,101711.12
+MSI,Gaming,12.1,1920x1080,Intel Core i3 6006U 2.0GHz,4GB,1TB HDD,AMD Radeon R5 M330,macOS,2.77kg,83335.14
+Acer,Workstation,11.0,2560x1600,Intel Core i3 6006U 2.0GHz,16GB,512GB SSD,Intel HD Graphics 620,No OS,1.82kg,110857.45
+Apple,Gaming,12.0,2880x1800,Intel Core i7 7500U 2.7GHz,16GB,128GB SSD,AMD Radeon R5 M330,Linux,2.75kg,114517.88
+Asus,Gaming,11.6,2560x1600,Intel Core i5 8250U 1.6GHz,4GB,512GB SSD,Intel Iris Plus Graphics 640,No OS,1.37kg,119449.32
+MSI,Notebook,14.6,2880x1800,Intel Core i7 7820HQ 2.9GHz,8GB,500GB HDD,AMD Radeon R5 M330,macOS,1.36kg,71026.91
+Asus,Notebook,12.5,1366x768,Intel Celeron N3350 1.1GHz,8GB,128GB SSD,Intel Iris Plus Graphics 640,Windows 7,1.93kg,26471.72
+Apple,Workstation,14.3,2880x1800,Intel Core i3 6006U 2.0GHz,4GB,128GB SSD,Nvidia Quadro M1000M,Windows 7,1.74kg,125378.86
+Apple,Notebook,15.7,1366x768,Intel Core i3 6006U 2.0GHz,32GB,500GB HDD,AMD Radeon R5 M330,Windows 10,1.38kg,140924.03
